@@ -1,7 +1,6 @@
 ## <p align="center">
- Hello 👋
+Seja Bem Vindo! 👋
  </p>
- Eu sou Felipe Coronetti.
 
 <p align="left">
   <br>
